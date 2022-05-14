@@ -1,0 +1,3 @@
+REDDIT_API_CLIENT_ID = "rWSA8Wj2TRufEMmWySifqg"
+REDDIT_API_CLIENT_SECRET = "AtiQo2oA-xyyv-ajW8GnonNymij4cg"
+REDDIT_API_USER_AGENT = "FourthBrainBot"
